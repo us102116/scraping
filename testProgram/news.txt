@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="ja" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+
+
+<meta charset="EUC-JP">
+<meta property="fb:pages" content="1411031549129601">
+<title>IT 経済ニュース - ライブドアニュース</title>
+<meta name="description" content="インターネット、スマートフォン、金融、企業などを集めたニュース記事一覧。今、話題になっているIT・経済のニュースまとめています。">
+<meta name="keywords" content="IT 経済,ニュース">
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="verify-v1" content="1bivxaxGrLBSoWSu7qAOa0M36HWHyewW+8YqCFDlBZQ=">
+<meta property="og:site_name" content="ライブドアニュース">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="IT 経済ニュース - ライブドアニュース">
+<meta property="og:description" content="インターネット、スマートフォン、金融、企業などを集めたニュース記事一覧。今、話題になっているIT・経済のニュースまとめています。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://news.livedoor.com/topics/category/eco/">
+<meta property="og:image" content="http://news.livedoor.com/img/fb/news.png?v=20131122">
+
+
+<meta property="fb:app_id" content="177427582354682">
+<meta name="google-site-verification" content="o5tpnnMZcGiZ39mGlvymSKSR_fd_pGPaE67o49icZo8">
+<link rel="icon" href="http://parts.news.livedoor.com/img/favicon.ico?v=20131002" type="image/x-icon">
+<link rel="Shortcut Icon" href="http://parts.news.livedoor.com/img/favicon.ico?v=20131002" type="img/x-icon">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/top.xml" title="RSS主要トピックス">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/dom.xml" title="RSS国内トピックス">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/int.xml" title="RSS海外トピックス">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/eco.xml" title="RSS IT 経済トピックス">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/ent.xml" title="RSS芸能トピックス">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/spo.xml" title="RSSスポーツトピックス">
+<link rel="alternate" type="application/rss+xml" href="/rss/summary/52.xml" title="RSS映画新着記事">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/gourmet.xml" title="RSSグルメトピックス">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/love.xml" title="RSS女子トピックス">
+<link rel="alternate" type="application/rss+xml" href="/topics/rss/trend.xml" title="RSSトレンドトピックス">
+<link rel="search" type="application/opensearchdescription+xml" title="ライブドアニュース" href="http://news.livedoor.com/open_search/default.xml">
+<link rel="stylesheet" href="/css/v2/common.css?v=2.49" type="text/css">
+
+
+
+<script type="text/javascript" src="/js/jquery1,8,1.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/_comment_up.0.3.js"></script>
+<script type="text/javascript" src="/js/ads.0.5.js"></script>
+<script type="text/javascript" src="/js/abtest/rewrite.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/html5shiv.js"></script>
+<![endif]-->
+
+<!-- UniversalAnalytics -->
+<script>
+function GAProxy(){
+    this.push = function(args){
+        if(args.length > 5){
+            throw "invalid argument length";
+        }
+        var eventName = args[0];
+        var category = args[1];
+        var action = args[2];
+        var label = args[3];
+        var value = args[4];
+        if(eventName !== '_trackEvent'){ // ignore
+            return;
+        }
+        if(typeof(action) === "undefined"){
+            alert("actionが設定されていません");
+            return;
+        }
+        var params = ["send", "event", category, action, label, value];
+        var filtered_params = params.filter(function(e){
+            return typeof(e) !== "undefined";
+        });
+        if(typeof(ga) !== "undefined"){
+            ga.apply(window, filtered_params);
+        }
+    };
+}
+var _gaq = new GAProxy();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-27661606-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1682225158731376');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1682225158731376&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+
+<body id="page-topics_category" class="col3">
+
+
+<div id="fb-root"></div>
+<script>
+  // https://developers.facebook.com/docs/reference/javascript/FB.init/
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : 177427582354682, // App ID from the App Dashboard
+      version    : 'v2.6',
+      //channelUrl : '//WWW.YOUR_DOMAIN.COM/channel.html', // Channel File for x-domain communication
+      status     : true, // check the login status upon init?
+      cookie     : true, // set sessions cookies to allow your server to access the session?
+      xfbml      : true  // parse XFBML tags on this page?
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+
+  };
+
+  // Load the SDK's source Asynchronously
+  // Note that the debug version is being actively developed and might
+  // contain some type checks that are overly strict.
+  // Please report such bugs using the bugs tool.
+  (function(d, debug){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/ja_JP/sdk" + (debug ? "/debug" : "") + ".js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document, false));
+</script>
+
+
+
+
+
+
+
+
+<div id="container">
+
+<header id="globalHeader"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <div class="headerInner">
+    <div class="headerSearchWrap">
+      <form class="headerSearch" method="get" action="/search/article/">
+        <input type="hidden" value="euc-jp" name="ie">
+        <input type="text" name="word" size="30" value="" placeholder="ニュース検索" class="searchText">
+        <input type="submit" value="検索" class="searchBtn">
+      </form>
+    </div>
+      <div class="headerLogo"><a href="http://news.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'ニュース', ' ヘッダー', 'ロゴ/ニュース']);">ライブドアニュース</a></div>
+    <ul class="headerInfo">
+<!--
+      
+      --><li class="infoLogin"><a href="http://member.livedoor.com/login/?.next=http%3A%2F%2Fnews.livedoor.com&amp;.sv=news" onclick="_gaq.push(['_trackEvent', 'ニュース', ' ヘッダー', 'ログイン/ログアウト']);">ログイン</a></li>
+<!--
+      
+      --><li class="infoTop"><a href="http://www.livedoor.com/r/news_text" onclick="_gaq.push(['_trackEvent', 'ニュース', ' ヘッダー', 'グローバルヘッダ/LDトップ']);">livedoor</a></li>
+<!--
+    -->
+</ul>
+  </div>
+<!-- /.headerInner -->
+</header><!-- /#header -->
+
+
+<!-- google_ad_section_start -->
+
+
+<div id="content">
+  <div class="contentInner">
+  
+
+
+
+    <div id="nav">
+      <div class="navInner">
+        <nav id="globalNav">
+          <ul>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/トップ']);">トップ</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/main/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/主要']);">主要</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/dom/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/国内']);">国内</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/world/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/海外']);">海外</a></div>
+            </li>
+            <li class="selected">
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/eco/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/IT 経済']);">IT 経済</a></div>
+              <ul class="child">
+                <li><a href="http://news.livedoor.com/article/category/2/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '二段目/経済総合']);">経済総合</a></li>
+                <li><a href="http://news.livedoor.com/article/category/12/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '二段目/マーケット']);">マーケット</a></li>
+                <li><a href="http://news.livedoor.com/article/category/31/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '二段目/Web']);">Web</a></li>
+                <li><a href="http://news.livedoor.com/article/category/29/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '二段目/ガジェット']);">ガジェット</a></li>
+                <li><a href="http://news.livedoor.com/article/category/201/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '二段目/ITビジネス']);">ITビジネス</a></li>
+                <li><a href="http://news.livedoor.com/article/category/210/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '二段目/IT総合']);">IT総合</a></li>
+              </ul>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/ent/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/芸能']);">芸能</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/sports/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/スポーツ']);">スポーツ</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/article/category/52/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/映画']);">映画</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/gourmet/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/グルメ']);">グルメ</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/love/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/女子']);">女子</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/topics/category/trend/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/トレンド']);">トレンド</a></div>
+            </li>
+            <li class="navSeparate">
+              <div class="parent"><a href="http://news.livedoor.com/straight_news/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/今日のできごと']);">今日のニュース</a></div>
+            </li>
+            <li>
+              <div class="parent"><a href="http://news.livedoor.com/ranking/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/ランキング']);">ランキング</a></div>
+            </li>
+            <li>
+                  <div class="parent"><a href="http://news.livedoor.com/social_reaction/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/話題のニュース']);">話題のニュース</a></div>
+            </li>
+            <li>
+                  <div class="parent"><a href="http://news.livedoor.com/category/vender/special/" onclick="_gaq.push(['_trackEvent', 'ニュース', '左カラム', '一段目/インタビュー']);">インタビュー</a></div>
+            </li>
+          </ul>
+        </nav>
+      </div>
+<!-- /.navInner -->
+    </div>
+<!-- /#nav -->
+
+  <div id="main">
+    <div class="mainInner">
+      <section class="mainSec">
+        <header class="mainHeader"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+          <h1 class="mainTtl">IT 経済</h1>
+          <p class="categoryRss"><a href="http://news.livedoor.com/topics/rss/eco.xml" target="_blank">RSS</a></p>
+        </header>
+        <div class="mainBody">
+          <ul class="articleList">
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14397270/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/a4c6368fa02607ba36b5b4dc01a4736ecab56441/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/2/9/2905a_1400_4cf1dd15032b7be3e4fbe5bdac660d79-cm.jpg?v=20180307092038" alt="上海在住の女性の2歳息子がいたずら iPhoneが47年間解除不可能に" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">上海在住の女性の2歳息子がいたずら iPhoneが47年間解除不可能に</h3>
+        <p class="articleListSummary">結果、47.5年間に相当する時間、ロックを解除できなくなってしまった</p>
+      <time datetime="2018-03-07 12:26:53" class="articleListDate">
+2018年3月7日 12時26分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14391536/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/1021b319f783f96e700b8426ccfa078625024801/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/d/1/d184e_88_d0310d2d06fd3a52c768dfe7b8fb8e11-cm.png?v=20180307105334" alt="若手が使いこなせるとは限らない？社内SNSの落とし穴と活用方法" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">若手が使いこなせるとは限らない？社内SNSの落とし穴と活用方法</h3>
+        <p class="articleListSummary">若者は仕事上のつながりに使用するSNSの扱いには慣れていないそう</p>
+      <time datetime="2018-03-07 11:30:58" class="articleListDate">
+2018年3月7日 11時30分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14396163/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/d3fd4df8d027384285ce301f42398898b47f3b39/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/a/8/a824d_1400_98779314e0b237bf5535b1fe66a49c29-cm.png?v=20180307071552" alt="iPhone X 買い替えない理由" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">iPhoneユーザーがiPhoneXに買い替えない理由 米メディアが指摘</h3>
+        <p class="articleListSummary">「自分のiPhoneが正常に動作するから」が44％で1位</p>
+      <time datetime="2018-03-07 10:12:55" class="articleListDate">
+2018年3月7日 10時12分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14395974/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/65f812a467f57695238ebd4ff3e42f3261fcc552/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/b/9/b9aa4_1559_0b45be8b364a7c9b798f58da8cc5a547-cm.jpg?v=20180307082007" alt="セリア「マウスパッド ショートカットキー表」" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">仕事効率アップ！セリアの「ショートカットキー表」マウスパッドが便利</h3>
+        <p class="articleListSummary">100円ショップ「セリア」で販売されているキーボードの「ショートカッ…</p>
+      <time datetime="2018-03-07 08:20:07" class="articleListDate">
+2018年3月7日 8時20分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14389458/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/3c92d390eedc294ea0d53427dd06880286694ba2/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/d/9/d9ca7_103_728aca6ada56ea76309f2c191b68b9d4-cm.jpg?v=20180307091721" alt="20180304napplepat1" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">Apple Watchの充電ボックス？ Appleの新特許が判明</h3>
+        <p class="articleListSummary">店舗展示に良さそう？意外と世に広く浸透しているイメージがあるApple…</p>
+      <time datetime="2018-03-07 09:16:28" class="articleListDate">
+2018年3月7日 9時16分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14397859/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/9c8ccdad4623ad1bf3b8ac0a9bbe03b1b72c0057/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/a/a/aa6c8_1500_1d2efd1d_bbee8f09-cm.jpg?v=20180307113112" alt="画像は「漫画村プロ」スクリーンショット" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">「漫画村」有料版 大手出版社間の連絡協議会で警察が摘発の声も</h3>
+        <p class="articleListSummary">「大手出版社間の連絡協議会でも議題になっています」と少年漫画編集者</p>
+      <time datetime="2018-03-07 12:31:43" class="articleListDate">
+2018年3月7日 12時31分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14396169/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/6d336c4365ad9b7d347f6d2a8a3e4e676dd005e8/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/b/5/b57a4_1634_30c27580c3422b7343e1e86168456ad4-cm.jpg?v=20180307072839" alt="「実務が大好き」だから あなたは“ダメ社長”" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">「結果を出せる社長」の共通点 「実務が大好き」はNG？</h3>
+        <p class="articleListSummary">実務を続けた場合は、未来を考える時間が減ってしまうと筆者</p>
+      <time datetime="2018-03-07 08:52:09" class="articleListDate">
+2018年3月7日 8時52分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14397395/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/5b189b72c97afbcf8d48a6729050d4ec3baee30e/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/2/5/25916_300_485f35f8_dc41d554-cm.jpg?v=20180307100140" alt=" 現在、マネーコンサルタントとしてお金に関するアドバイスや講演活動を行う市居愛さんですが、実は、ほんの数年前までは、「無頓着」「無計画」「どんぶり勘定」という典型的なズボラ家計に陥っていたといいます。何が彼女を変えたのか――。そのきっかけから、どんぶり家計脱却までの道のりを伺いました。 " onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">1億円稼ぐ人が考える起業の準備「自分を棚卸しする」ことが大事！</h3>
+        <p class="articleListSummary">独立や転職で重要なのは、培ってきたスキルを生かすことだという</p>
+      <time datetime="2018-03-07 10:49:10" class="articleListDate">
+2018年3月7日 10時49分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14386482/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/02ec99f7ab65a00a5b0fc6911c6956fba2e61b98/small_light(p=S80,dx=0,dy=0)/http://image.news.livedoor.com/newsimage/stf/1/9/19a8d_1635_7bd174c96763be29e342a39d98186cbe-cm.jpg?v=20180307123544" alt="「のぞみ34号」の台車亀裂 匠の技を過信した人災か" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">｢のぞみ｣台車亀裂､2つの原因は"人災"だった</h3>
+        <p class="articleListSummary">昨年12月11日、東海道・山陽新幹線「のぞみ34号」が走行中に異常音や…</p>
+      <time datetime="2018-03-07 12:35:44" class="articleListDate">
+2018年3月7日 12時35分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14300618/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/307c2a3b319ea17cafb1e56c6a0313b60855e848/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/a/c/ac2d23fd45ac93db4d58cdc7f8dd18c6-cm.JPG?v=20180220160115" alt="自分の「可能性」をAIが数値化？話題のFinTechサービス「AIスコア」" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">自分の「可能性」をAIが数値化？話題のFinTechサービス「AIスコア」</h3>
+        <p class="articleListSummary">約2分の質問に答えると、AIで自分の可能性がスコアとして算出される</p>
+      <time datetime="2018-03-01 13:14:32" class="articleListDate">
+2018年3月1日 13時14分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14388395/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/ab42590e0efb60355ef754ac5591dbea56be5455/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/b/b/bb956_103_63904ccbbd6024f07d4a3267fc551ab2-cm.jpg?v=20180307074525" alt="180305_galaxy_s9_display" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">Galaxy S9のディスプレイ品質は、iPhone Xよりも高評価でした</h3>
+        <p class="articleListSummary">Image: Sam Rutherford/Gizmodo US                                 …</p>
+      <time datetime="2018-03-07 09:18:28" class="articleListDate">
+2018年3月7日 9時18分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14396915/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/75df3b7b6bb3860e4ec01594a5c80e1ce83753a1/small_light(p=S80,dx=0,dy=0)/http://image.news.livedoor.com/newsimage/stf/3/b/3b79c_1231_502435f50da3b7e73dfcf387bac040cb-cm.jpg?v=20180307080146" alt="記者会見で頭を下げる神戸製鋼所の川崎博也会長兼社長（６日午後、東京都中央区で）＝川崎公太撮影" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">神鋼の品質軽視、長年横行の「社内風土」</h3>
+        <p class="articleListSummary">神戸製鋼所が６日、公表した検査データ改ざん問題の最終報告書は、…</p>
+      <time datetime="2018-03-07 08:01:46" class="articleListDate">
+2018年3月7日 8時1分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14395396/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/6af8ac050d75c5e6fc56b945e063bbd48233ef2a/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/5/f/5f5fa_1302_5eb35da5dc24ff738d544d78d5103c88-cm.jpg?v=20180306204800" alt="携帯電話事業に参入を表明している楽天 東京電力保有の設備を利用" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">携帯電話事業に参入を表明している楽天 東京電力保有の設備を利用</h3>
+        <p class="articleListSummary">東京電力HD保有の設備を使い、通信ネットワークを構築すると説明</p>
+      <time datetime="2018-03-07 07:13:53" class="articleListDate">
+2018年3月7日 7時13分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14393965/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/6da90bb32fb10ea791d1a8fb6d40e069900d1a56/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/6/a/6a038_1438_24fa392a263e34b9d0f35842199c3c69-cm.jpg?v=20180306224800" alt="180306 jredoorkeikaku 01" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">JR東日本が駅ホームドアの整備計画を発表 今後15年前後で330駅に導入へ</h3>
+        <p class="articleListSummary">2032年度末ごろまで東京圏在来線の主要路線全330駅に導入される</p>
+      <time datetime="2018-03-06 22:48:00" class="articleListDate">
+2018年3月6日 22時48分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14395253/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/6554411c6e3c8aa2f80cd44dd711bc17b420ee69/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/3/6/366ce_1231_1b61399935861ccb31afbc49b5094200-cm.jpg?v=20180306193621" alt="トヨタが発表したスープラの試作車（ジュネーブで）＝戸田雄撮影" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">2002年に生産中止の「スープラ」が復活へ 2019年前半に発売予定</h3>
+        <p class="articleListSummary">2019年前半に、世界各国で発売する計画だという</p>
+      <time datetime="2018-03-06 22:06:14" class="articleListDate">
+2018年3月6日 22時6分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14395401/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/75bb96e3ff73c99a0e2e39f2bf206567e6ce7698/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/4/0/4074a_1568_a16de564664559b97d2bccb06eb75dca-cm.jpg?v=20180306213827" alt="ホンダの軽自動車「N-BOX」販売台数で6カ月連続の首位" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">ホンダの軽自動車「N-BOX」販売台数で6カ月連続の首位</h3>
+        <p class="articleListSummary">ホンダ「N-BOX」が2017年同月比13.3％増の2万2007台で6カ月連続の首位</p>
+      <time datetime="2018-03-06 21:38:27" class="articleListDate">
+2018年3月6日 21時38分</time>
+    </div>
+  </a>
+</li>
+<li>
+  <a href="http://news.livedoor.com/topics/detail/14394393/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+    <div class="articleListBody">
+      <h3 class="articleListTtl">マッチングアプリ「Tinder」の落とし穴 偽名アカウントもつくれる</h3>
+        <p class="articleListSummary">Facebookのアカウントで簡単登録できるが、偽名アカウントも作れると指摘</p>
+      <time datetime="2018-03-06 21:37:31" class="articleListDate">
+2018年3月6日 21時37分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14395249/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/e59fafb153fb9c595535c6823c17f76d4fbb8d70/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/3/f/3f071_1633_8e2bac79_fbf9431f-cm.jpg?v=20180306205523" alt="格安スマホで知っておきたいこと iPhoneXは買った日にSIMロック解除が可能" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">格安スマホで知っておきたいこと iPhoneXは買った日にSIMロック解除が可能</h3>
+        <p class="articleListSummary">新規参入による価格競争も落ち着き、業者間での料金差はほとんどないという</p>
+      <time datetime="2018-03-06 20:55:23" class="articleListDate">
+2018年3月6日 20時55分</time>
+    </div>
+  </a>
+</li>
+<li class="hasImg">
+  <a href="http://news.livedoor.com/topics/detail/14392855/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+      <p class="articleListImg"><img src="http://sl.news.livedoor.com/67a0cd4e9e7f3661ef2bc07faafd2477801b04ab/small_light(p=S80)/http://image.news.livedoor.com/newsimage/stf/2/5/25cd5_1187_0ff20693_427ea83b-cm.jpg?v=20180306203458" alt="廃車になったポルシェ「911」オランダの会社が電気自動車化して販売" onmousedown="return false;" onselectstart="return false;" oncontextmenu="return false;" galleryimg="no"></p>
+    <div class="articleListBody">
+      <h3 class="articleListTtl">廃車になったポルシェ「911」オランダの会社が電気自動車化して販売</h3>
+        <p class="articleListSummary">走れなくなったポルシェからボディやコンポーネントを回収して再利用</p>
+      <time datetime="2018-03-06 20:34:58" class="articleListDate">
+2018年3月6日 20時34分</time>
+    </div>
+  </a>
+</li>
+<li>
+  <a href="http://news.livedoor.com/topics/detail/14395067/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'メインカラム', 'トピックス一覧/IT 経済/詳細']);">
+    <div class="articleListBody">
+      <h3 class="articleListTtl">スルガ銀行の株価が1月から下落基調 6日までに時価総額の3割を失う</h3>
+        <p class="articleListSummary">シェアハウスの建設資金を融資し、回収不可能になるのではとの懸念が浮上</p>
+      <time datetime="2018-03-06 20:26:08" class="articleListDate">
+2018年3月6日 20時26分</time>
+    </div>
+  </a>
+</li>
+          </ul>
+        </div>
+        <div class="articleCategoryPager">
+        
+<ul class="pager">
+    
+  
+  
+      <li class="current"><span>1</span></li>
+      <li><a href="./?p=2">2</a></li>
+      <li><a href="./?p=3">3</a></li>
+      <li><a href="./?p=4">4</a></li>
+      <li><a href="./?p=5">5</a></li>
+      <li><a href="./?p=6">6</a></li>
+      <li><a href="./?p=7">7</a></li>
+    <li class="next"><a href="./?p=2" rel="next">次へ</a></li>
+  </ul>
+        </div>
+      </section>
+
+      
+<aside class="mainSec">
+  <div class="adsW">
+    <div class="adsW1">
+      <script type="text/javascript"><!--
+      google_ad_client = "ca-pub-6988676431156825";
+      /* news_footer_300×250 */
+      google_ad_slot = "7303747849";
+      google_ad_width = 300;
+      google_ad_height = 250;
+      //-->
+      </script>
+      <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+    <div class="adsW2">
+      <script type="text/javascript"><!--
+      google_ad_client = "ca-pub-6988676431156825";
+      /* news_footer_300×250 */
+      google_ad_slot = "7303747849";
+      google_ad_width = 300;
+      google_ad_height = 250;
+      //-->
+      </script>
+      <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+  </div>
+</aside>
+
+    </div>
+  </div>
+
+  
+    <div id="sub">
+      <div class="subInner">
+
+
+        <aside class="subSec">
+          
+          <script type="text/javascript">
+(function(d){d.write('<scr'+'ipt type="text/javascript" src="'+(d.location.protocol=='https:'?'https:':'http:')+'//api.unthem.com/js/pcad.js?zname=hs9001252&ref='+encodeURIComponent(d.referrer)+'&oe=EUC-JP&_='+Math.round(Math.random()*10000000000)+'">'+'ipt>');})(document);
+</script>
+
+        </aside>
+
+
+        
+
+
+
+
+
+
+
+        <aside class="subSec">
+          <h2 class="subTtl">主要ニュース</h2>
+          <div class="subBody">
+
+
+<ul class="topicsList">  <li>
+    <a id="topics_2082096" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14398268/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/1行目']);">北島三郎の次男が死去 病死か</a><i class="icon icoNew"></i>
+  </li>  <li>
+    <a id="topics_2082066" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14398285/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/2行目']);">小川参院議員の長男また逮捕</a>
+  </li>  <li>
+    <a id="topics_2082070" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14398121/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/3行目']);">飲むだけインフル新薬 保険適用</a>
+  </li>  <li>
+    <a id="topics_2082079" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14398199/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/4行目']);">慰安婦の碑撤去 関係者に疑惑</a>
+  </li>  <li>
+    <a id="topics_2082102" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14396487/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/5行目']);">もらえる年金を42%増やす戦略</a><i class="icon icoNew"></i>
+  </li>  <li>
+    <a id="topics_2082084" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14398212/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/6行目']);">ETC 減速しないといけない事情</a><i class="icon icoNew"></i>
+  </li>  <li>
+    <a id="topics_2082053" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14397804/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/7行目']);">栄氏パワハラ疑惑 裏に派閥争い</a>
+  </li>  <li>
+    <a id="topics_2082058" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14397860/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/8行目']);">小泉今日子 不倫で仕事激減か</a>
+  </li>  <li>
+    <a id="topics_2082061" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14398157/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/9行目']);">西川貴教 吉村由美との離婚理由</a>
+  </li>  <li>
+    <a id="topics_2082108" class="rewrite_ab" href="http://news.livedoor.com/topics/detail/14397816/" onclick="_gaq.push(['_trackEvent', 'ニュース', 'サイドカラム','主要/トピックス/詳細/10行目']);">とんねるずは特別 竹山が熱弁</a><i class="icon icoNew"></i>
+  </li>
+</ul>
+<script type="text/javascript">
+var rand_topics_title_hash = {
+"topics_2082108":randomAdv({})
+};
+rewrite_topics_titles(rand_topics_title_hash);
+$(".rewrite_ab").css("visibility","visible");
+</script>
+
+
+          </div>
+        </aside>
+
+
+	
+
+
+        <aside class="subSec">
+          <script type="text/javascript">
+          (function(d){d.write('<scr'+'ipt type="text/javascript" src="'+(d.location.protocol=='https:'?'https:':'http:')+'//api.unthem.com/js/pcad.js?zname=hs9000872&ref='+encodeURIComponent(d.referrer)+'&oe=EUC-JP&_='+Math.round(Math.random()*10000000000)+'">'+'ipt>');})(document);
+          </script>
+        </aside>
+
+
+<aside class="subSec">
+  <script type="text/javascript">
+  (function(d){d.write('<scr'+'ipt type="text/javascript" src="'+(d.location.protocol=='https:'?'https:':'http:')+'//api.unthem.com/js/pcad.js?zname=hs9001285&ref='+encodeURIComponent(d.referrer)+'&oe=EUC-JP&_='+Math.round(Math.random()*10000000000)+'">'+'ipt>');})(document);
+  </script>
+</aside>
+
+
+        <aside class="subSec">
+          <h2 class="subTtl">おすすめサービス</h2>
+          <div class="subBody">
+              <script type="text/javascript">if(!window.ads_code) ads_code = []; ads_code.push("had0010");</script>
+<span id="ads_had0010"></span>
+
+              <script type="text/javascript">if(!window.ads_code) ads_code = []; ads_code.push("had0011");</script>
+<span id="ads_had0011"></span>
+
+          </div>
+        </aside>
+      </div>
+<!-- /subInner -->
+    </div>
+<!-- /#sub -->
+
+
+
+  </div>
+<!-- /.contentInner -->
+</div>
+<!-- /#content -->
+
+
+
+<!-- google_ad_section_end -->
+
+<footer id="globalFooter">
+  <div class="footerInner">
+
+    <dl class="footerRecommend">
+      <dt>おすすめサイト：</dt>
+      <dd><a href="http://a-hikkoshi.com/livedoor/index.html" rel="nofollow">引越し比較</a></dd>
+      <dd><a href="http://www.livedoor.com/r/link_c_hikaku1_news" rel="nofollow">ＦＸ比較</a></dd>
+      <dd><a href="http://pr.livedoor.com/bee-com/" rel="nofollow">FX取引ソフト</a></dd>
+      <dd><a href="http://www.livedoor.com/r/link_c_hikaku2_news" rel="nofollow">ネット証券比較</a></dd>
+      <dd><a href="http://www.livedoor.com/r/link_c_hikaku3_news" rel="nofollow">商品先物比較</a></dd>
+      <dd><a href="http://travel.livedoor.com/" rel="nofollow">格安航空券比較</a></dd>
+      <dd><a href="http://type.jp/s/livedoor/" rel="nofollow">求人・転職（総合・女性）</a></dd>
+      <dd><a href="http://www.livedoor.com/r/i_hangame" rel="nofollow">ゲーム</a></dd>
+    </dl>
+<!-- /.footerRecommend -->
+
+    <div class="footerLower">
+      <ul class="footerLink">
+        <li><a href="http://www.livedoor.com/">livedoorトップ</a></li>
+        <li><a href="https://linecorp.com/career/position/list">採用情報</a></li>
+        <li><a href="http://ad-center.line.me/">広告掲載</a></li>
+        <li><a href="http://docs.livedoor.com/rules/">利用規約</a></li>
+        <li><a href="http://docs.livedoor.com/privacy/">プライバシーポリシー</a></li>
+      </ul>
+      <p class="footerCopyright"><small>© <b>LINE Corporation</b></small></p>
+    </div>
+<!-- /.footerLower -->
+  </div>
+<!-- /.footerInner -->
+
+
+</footer><!-- /#globalFooter -->
+
+
+</div>
+<!-- /#container -->
+
+<script>if(window.unthem_async_loader && window.ads_code) unthem_async_loader(ads_code, "adview_custom");</script>
+<script>
+(function($){
+  $(function() {
+    var agent = navigator.userAgent;
+    if(agent.search(/iPhone/) != -1 || agent.search(/iPad/) != -1 || agent.search(/iPod/) != -1 || agent.search(/Android/) != -1){
+      var is_tablet = 1;
+    }
+    var $w = $(window),
+        hh = $('#globalHeader').innerHeight(),
+        fh = $('#globalFooter').innerHeight(),
+        is_hdr = $('#subHeader').length,
+        is_nav = $('#globalNav').length,
+        is_jack = $('#jackHead').length,
+        nc = is_jack?Math.abs(parseInt($('#globalFooter').css('margin-top'),10))-Math.abs(parseInt($('.contentInner').css('top'),10)):0;
+
+    if(is_nav > 0){
+        var $n = $('#globalNav'),
+            nm = 0,  //globalNav margin
+            nh = $('#globalNav').innerHeight() + nm * 2,
+            nt = $('#globalNav').offset().top - nm;
+    }
+    if(is_hdr > 0) {
+        var ht = $('#subHeader').offset().top,
+            col2 = $('body').hasClass('col2');
+    }
+
+    var navfix = function(){
+      var ws = $w.scrollTop(),
+          wl = $w.scrollLeft(),
+          wh = $w.innerHeight(),
+          dh = $(document).innerHeight();
+
+      if(is_hdr > 0) {
+        //if(ws > ((is_jack && col2) ? 183 : 0)) {
+        if(ws > ((is_jack && col2) ? 241 : 0)) {
+          $("#subHeader").fadeIn(300);
+          $('#subHeader').addClass('fixed');
+        } else {
+          $("#subHeader").fadeOut(300,function(){$('#subHeader').removeClass('fixed');});
+        }
+      }
+
+
+      if(is_nav > 0) {
+        var  nl = $('#nav').offset().left+30;
+
+        if(nh-wh < 0) {
+          if(dh-ws-fh+nc < nh){
+            $n.css({'position':'absolute', 'top':'auto', 'bottom':nm + 'px', 'left':'auto'});
+          }
+          else if(ws > nt){
+            $n.css({'position':'fixed', 'top':nm + 'px', 'bottom':'auto', 'left':(wl-nl) < 0 ? (nl-wl) + 'px' : '-' + (wl-nl) + 'px'});
+          }
+          else{
+            $n.css({'position':'static', 'top':'auto', 'bottom':'auto', 'left':'auto'});
+          }
+        }else{
+          if(dh-ws-wh-fh+nc < 0){
+            $n.css({'position':'absolute', 'top':'auto', 'bottom':nm + 'px', 'left':'auto'});
+          }
+          else if(ws > nt+nh-wh){
+            $n.css({'position':'fixed', 'top':'auto', 'bottom':nm + 'px', 'left':(wl-nl) < 0 ? (nl-wl) + 'px' : '-' + (wl-nl) + 'px'});
+          }
+          else{
+            $n.css({'position':'static', 'top':'auto', 'bottom':'auto', 'left':'auto'});
+          }
+        }
+      }
+    }
+
+    if(!is_tablet) {
+      $w.on('scroll',navfix);
+      $w.on('resize',navfix);
+    }
+    navfix();
+
+  });
+})(jQuery);
+
+</script>
+
+
+
+<!-- adblock check start -->
+<script type="text/javascript">
+     (function() {
+         var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.charset = "utf-8"; pa.async = true;
+         pa.src = "https://i.popincdn.com/js/popin-cb-min.js";
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+     })();
+</script>
+<!-- adblock check end -->
+</body>
+</html>
